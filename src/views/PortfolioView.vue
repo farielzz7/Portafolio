@@ -10,8 +10,8 @@ export default {
           imageUrl: 'portfolio_v9',
           status: 'Mi sitio web personal en el cual recaudo algunos de mis trabajos realizados en mi estancia academica y laboral',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          github: 'https://github.com/farielzz7/Portafolio',
+          demo: 'https://portafoliofarielp.netlify.app/'
         },
       ]
     };

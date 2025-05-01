@@ -13,6 +13,15 @@ export default {
           github: 'https://github.com/farielzz7/Portafolio',
           demo: 'https://portafoliofarielp.netlify.app/'
         },
+         {
+          id: 2,
+          name: 'Pokemon',
+          imageUrl: 'pokemon',
+          status: 'Sitio Web en el cual cocumo la api de pokemon con un pequeño videojuego vs ia asi como un diseño basico pero intuitivo',
+          tech: 'VueJS 3',
+          github: 'https://github.com/farielzz7/pokemon',
+          demo: 'https://pokemonfarielp.netlify.app/'
+        },
       ]
     };
   }

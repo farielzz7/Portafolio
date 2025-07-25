@@ -23,13 +23,22 @@ export default {
           demo: 'https://pokemonfarielp.netlify.app/'
         },
         {
-          id: 2,
+          id: 3,
           name: 'Sacbe',
           imageUrl: 'sacbe',
           status: 'Proyecto de turismo de un truck food en el cual podras realizar reservas y conocer un poco el lugar las actividades y el menu ',
           tech: 'NextJS ',
           github: 'https://github.com/farielzz7/sacbe',
           demo: 'https://sacbe.vercel.app/'
+        },
+         {
+          id: 4,
+          name: 'GoPlan',
+          imageUrl: 'goplan',
+          status: 'Proyecto de mi universidad en el cual consiste en la planificacion de viajes de acuerdo al presupuesto del usuario',
+          tech: 'NextJS, Laravel, React ',
+          github: 'https://github.com/farielzz7/proyecto',
+          demo: 'https://proyecto-rho-one.vercel.app/'
         },
       ]
     };

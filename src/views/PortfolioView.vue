@@ -22,6 +22,15 @@ export default {
           github: 'https://github.com/farielzz7/pokemon',
           demo: 'https://pokemonfarielp.netlify.app/'
         },
+        {
+          id: 2,
+          name: 'Sacbe',
+          imageUrl: 'sacbe',
+          status: 'Proyecto de turismo de un truck food en el cual podras realizar reservas y conocer un poco el lugar las actividades y el menu ',
+          tech: 'NextJS ',
+          github: 'https://github.com/farielzz7/sacbe',
+          demo: 'https://sacbe.vercel.app/'
+        },
       ]
     };
   }

@@ -36,8 +36,8 @@ export default {
         },
         {
           id: 6,
-          name: 'Codeigniter',
-          imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
+          name: 'NextJS',
+          imageUrl: 'https://imgs.search.brave.com/wjm9zuyc6N8civDdhgzB8q890y1Aqi94IWg2a2h9u90/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9uZXh0anMt/aWNvbi5wbmc',
           status: 'Intermediate'
         },
         {
